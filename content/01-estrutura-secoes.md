@@ -21,16 +21,18 @@ A estrutura serve os três — não o mesmo texto para os três.
 ## Bloco 1 — Convencer em 20 segundos
 
 ### 1. Hero
+
 - **Objetivo:** dizer o que ela faz e para quem, sem metáfora, na primeira tela.
 - **Conteúdo:** nome · headline de posicionamento (uma frase) · subtítulo com o
-  fio condutor (duas linhas) · 3 a 4 *chips* de prova · CTA primário (falar) e
+  fio condutor (duas linhas) · 3 a 4 _chips_ de prova · CTA primário (falar) e
   secundário (LinkedIn, CV em PDF).
 - **Evidência:** os chips precisam ser números, não adjetivos. Ex.: `4 anos em
-  contas enterprise`, `+X clientes implantados`, `Mestre em Arq&Urb`,
+contas enterprise`, `+X clientes implantados`, `Mestre em Arq&Urb`,
   `NR-01 / riscos psicossociais`.
 - **Regra:** sem foto de banco de imagem. Foto real ou nenhuma.
 
 ### 2. Números
+
 - **Objetivo:** dar escala. "Enterprise" sem número é palavra vazia.
 - **Conteúdo:** 3 a 5 métricas grandes, cada uma com uma linha de contexto.
 - **Evidência:** ver `02-dados-a-coletar.md` §2. **Se não houver número real,
@@ -39,6 +41,7 @@ A estrutura serve os três — não o mesmo texto para os três.
   resultado (`contas enterprise`, `RH · DHO · SST`, `remoto desde 2021`).
 
 ### 3. Áreas de atuação
+
 - **Objetivo:** traduzir a trajetória dela em vocabulário de vaga. É aqui que o
   recrutador reconhece o cargo que ele está tentando preencher.
 - **Conteúdo:** 4 cards, título em linguagem de mercado + 3 bullets concretos:
@@ -57,7 +60,8 @@ A estrutura serve os três — não o mesmo texto para os três.
 
 ## Bloco 2 — Convencer em 3 minutos
 
-### 4. Cases  ← o coração da página
+### 4. Cases ← o coração da página
+
 - **Objetivo:** provar. Todo o resto é contexto para esta seção.
 - **Conteúdo:** 3 a 5 cases, formato fixo para permitir comparação:
   ```
@@ -79,18 +83,20 @@ A estrutura serve os três — não o mesmo texto para os três.
 - **Evidência:** número em pelo menos 3 dos 5. Sem isso, a seção é narrativa.
 
 ### 5. Como eu trabalho
+
 - **Objetivo:** diferenciar de quem tem o mesmo currículo. É a seção que responde
   "como é trabalhar com ela".
 - **Conteúdo:** 3 a 4 principios, cada um com uma evidência de comportamento real
   em vez de autoelogio.
-  - A matéria-prima do post dela sobre processo seletivo — *"não espero ser
-    contratada para começar; chego na entrevista já em movimento"* — é forte, e é
+  - A matéria-prima do post dela sobre processo seletivo — _"não espero ser
+    contratada para começar; chego na entrevista já em movimento"_ — é forte, e é
     verdade documentada (ela montou portfólio em Notion e dashboard em dois dias).
-  - O trecho sobre escuta em projeto psicossocial — *"se há queixa, há
-    informação"* — é posicionamento de quem entende o ofício.
+  - O trecho sobre escuta em projeto psicossocial — _"se há queixa, há
+    informação"_ — é posicionamento de quem entende o ofício.
 - **Evidência:** cada princípio precisa de um fato, não de um adjetivo.
 
 ### 6. Trajetória
+
 - **Objetivo:** dar coerência temporal e neutralizar a leitura de "pulou muito".
 - **Conteúdo:** timeline enxuta. Empresa, cargo, período, uma linha de escopo,
   um resultado. **Não repetir os bullets do LinkedIn** — o portfólio não é CV.
@@ -103,6 +109,7 @@ A estrutura serve os três — não o mesmo texto para os três.
 ## Bloco 3 — Fechar
 
 ### 7. Formação e produção
+
 - **Objetivo:** sustentar a autoridade técnica que os cards 3 e 4 prometem.
 - **Conteúdo:** duas colunas — **formação** (graduação, mestrado, especializações,
   certificações) e **produção** (dissertação, apresentações nacionais e
@@ -111,6 +118,7 @@ A estrutura serve os três — não o mesmo texto para os três.
   estágio, publicação. Produção sem link é currículo; com link é portfólio.
 
 ### 8. Ferramentas e métodos
+
 - **Objetivo:** passar filtro de palavra-chave de recrutador e de ATS.
 - **Conteúdo:** lista agrupada — plataformas de CS/CRM, BI e dados, métodos
   ágeis, análise estatística, geoprocessamento, IA aplicada ao trabalho.
@@ -118,12 +126,14 @@ A estrutura serve os três — não o mesmo texto para os três.
   inflada aqui é a forma mais comum de queimar entrevista técnica.
 
 ### 9. Recomendações
+
 - **Objetivo:** prova social. Terceiro dizendo o que ela não pode dizer de si.
 - **Conteúdo:** 2 a 3 depoimentos curtos, com nome, cargo e empresa.
 - **Evidência:** precisa pedir. Ver `02-dados-a-coletar.md` §5. Se não vier
   nenhum, a seção sai — depoimento anônimo não vale nada.
 
 ### 10. O que eu busco agora
+
 - **Objetivo:** reduzir atrito. Recrutador não gosta de adivinhar.
 - **Conteúdo:** cargo-alvo (2 ou 3 nomes de vaga, não uma área), modelo de
   trabalho, tipo de empresa e de problema que ela quer, e o que ela entrega nos
@@ -132,6 +142,7 @@ A estrutura serve os três — não o mesmo texto para os três.
   depende de decisão, e não de dado.
 
 ### 11. Contato
+
 - **Objetivo:** converter.
 - **Conteúdo:** e-mail direto, LinkedIn, WhatsApp `[confirmar se ela quer]`,
   botão de CV em PDF. Um CTA, repetido, sem formulário.
