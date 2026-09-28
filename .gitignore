@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.local
+.claude/settings.local.json
+
+# Conteúdo das páginas por vaga: contém o nome das empresas em que a Alana está
+# se candidatando, e o slug de cada página não listada. Não entra no histórico.
+# Ver .agent/Decisions/0001-paginas-por-vaga-nao-listadas.md
+content/vagas/
