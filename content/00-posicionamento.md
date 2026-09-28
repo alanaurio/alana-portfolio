@@ -2,8 +2,9 @@
 
 > Documento de decisão. Nada de copy definitiva aqui — isto existe para fechar
 > **para quem** o portfólio fala antes de escrever uma linha de texto final.
-> Fonte: perfil do LinkedIn (set/2026). O que estiver marcado `[confirmar]`
-> precisa de validação com a Alana.
+> Fonte: perfil do LinkedIn, transcrito em
+> [`fontes/linkedin-2026-09-28.md`](fontes/linkedin-2026-09-28.md). O que estiver
+> marcado `[confirmar]` precisa de validação com a Alana.
 
 ## 1. O que a Alana faz, na prática
 
@@ -39,9 +40,10 @@ O que diferencia ela de outros cem candidatos a CS:
    consultiva de HR-tech, isso é a diferença entre operar a ferramenta e
    responder a pergunta do cliente.
 
-2. **NR-01 e riscos psicossociais.** Ela fez projeto de gestão de risco
-   psicossocial por anos, antes do tema virar obrigação de mercado no Brasil.
-   Hoje, toda empresa de RH/SST está correndo atrás disso. Ela já tem cicatriz.
+2. **NR-01 e riscos psicossociais.** Ela atuou em projetos psicossociais ligados
+   à NR-01 nos últimos dois anos na Mapa — é o que ela mesma diz no post de
+   jan/2026 — enquanto o tema virava obrigação de mercado no Brasil. Hoje, toda
+   empresa de RH/SST está correndo atrás disso. Ela já tem cicatriz.
 
 3. **Pesquisa aplicada com dados complexos.** Mestrado com geoprocessamento,
    morfologia urbana, ecologia da paisagem, programação. Apresentações nacionais
@@ -69,7 +71,8 @@ O portfólio inteiro serve para tornar esse fio explícito. Não para listar tud
   lado de processo, métrica e playbook. Demanda alta e salário bom. A formação em
   psicologia vira vantagem concreta (jornada, adoção, comportamento).
 - **Contra:** exige evidência numérica de operação. Se ela não tiver métrica dos
-  9 meses na LíderHub, a trilha enfraquece.
+  6 meses na LíderHub, a trilha enfraquece — e o título "Líder CSOps" pode ter só
+  duas semanas (ver `02-dados-a-coletar.md` §4).
 - **Cargos:** CS Ops Analyst/Manager, Customer Experience Manager, Head de CS em
   empresa pequena, Revenue Ops.
 

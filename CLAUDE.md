@@ -95,8 +95,10 @@ como se ele garantisse que a LíderHub não vai ver.
 ### 2. Nunca invente dado sobre a Alana
 
 Métrica, número de clientes, resultado de projeto, nome de ferramenta, nível de
-inglês: se não está no perfil do LinkedIn transcrito na conversa original nem em
-`content/`, **não existe**. Marque `[confirmar]` e siga.
+inglês: se não está no perfil do LinkedIn transcrito em
+`content/fontes/linkedin-2026-09-28.md` nem no resto de `content/`, **não
+existe**. Marque `[confirmar]` e siga. Estar na transcrição também não é estar
+confirmado — o perfil tem erros, listados em `content/02-dados-a-coletar.md` §4.
 
 Isso não é zelo de copy. Número inventado queima a candidata na entrevista,
 quando o entrevistador puxa o fio — é o risco mais sério do projeto, e a razão de
@@ -119,6 +121,7 @@ partir dos documentos de estrutura por iniciativa própria.**
 | `content/00-posicionamento.md`   | Para quem a página fala, as três trilhas de vaga, a recomendação |
 | `content/01-estrutura-secoes.md` | As 11 seções, em ordem de prioridade, com objetivo e evidência   |
 | `content/02-dados-a-coletar.md`  | O que ainda falta perguntar para a Alana                         |
+| `content/fontes/`                | Material bruto, literal e datado (LinkedIn, galeria do Notion)   |
 
 Leia `00` antes de escrever qualquer copy.
 

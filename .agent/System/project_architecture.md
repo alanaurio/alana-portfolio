@@ -33,6 +33,9 @@ content/                     # FONTE DA VERDADE do conteúdo, em Markdown
   00-posicionamento.md       #   para quem a página fala; as 3 trilhas de vaga
   01-estrutura-secoes.md     #   as 11 seções, em ordem de prioridade
   02-dados-a-coletar.md      #   o que falta perguntar para a Alana
+  fontes/                    #   material bruto, literal e datado; a origem citada pelo banco
+    linkedin-2026-09-28.md   #     perfil completo do LinkedIn
+    notion-galeria/          #     os 7 projetos da galeria dela no Notion (texto; imagens pendentes)
   banco-de-evidencias.md     #   (planejado) cases e números com id — ADR 0002
   vagas/                     #   (planejado) uma vaga por arquivo — FORA DO GIT
 src/
