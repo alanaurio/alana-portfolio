@@ -60,7 +60,11 @@ O perfil atual tem pontos que um recrutador vai estranhar:
   Se não, é erro de data e precisa corrigir antes de o portfólio replicar.
 - **LíderHub como "abr/2026 – o momento · 6 meses"** confere com hoje
   (set/2026), mas vale confirmar a data de entrada.
-- **Título na Mapa:** aparece "Mapa" e "Mapa HDS". Qual é o nome público?
+- ~~**Título na Mapa:**~~ **Respondido em 2026-09-28**
+  ([fonte](fontes/alana-2026-09-28-chat.md) §2): **Mapa HDS**, cargo
+  "Psicóloga | Consultora Sênior - Instrumentos de Avaliação". Na mesma fonte,
+  SBsistemas passa a **dez/2021 – jul/2022**, como "Consultora de Vendas e Tech
+  Lead". A sobreposição com a Mapa continua valendo como pergunta (item acima).
 - **Cargo atual:** "Líder CSOps" é título interno ou formal? Muda como escrever.
 - **Dois cargos com um título só na LíderHub?** A experiência diz "Líder CSOps
   desde abr/2026", mas o anúncio "começou no novo cargo de Líder CSOps" é de
@@ -75,9 +79,9 @@ O perfil atual tem pontos que um recrutador vai estranhar:
   supervisionado? O título na Mapa mudou depois da formatura? Qual o número do
   CRP e desde quando? Até responder, o portfólio não repete nenhum dos dois como
   está.
-- **IMED ou Atitus?** O mestrado aparece concluído na "IMED" (post de
-  fev/2026) e cursado na "Atitus Educação" (seção de formação). Qual nome vai no
-  portfólio, e qual está no diploma?
+- ~~**IMED ou Atitus?**~~ **Respondido pela Alana em 2026-09-28**
+  ([fonte](fontes/alana-2026-09-28-chat.md) §1): mestrado na **Atitus
+  Educação**; graduação em Psicologia na **IMED (atual Atitus Educação)**.
 - **Hiato dez/2025 – mar/2026** entre Mapa e LíderHub. Não é problema — os
   posts mostram que ela estava em processo seletivo e terminando o mestrado —
   mas a timeline vai mostrar o buraco, então é melhor decidir como aparece.

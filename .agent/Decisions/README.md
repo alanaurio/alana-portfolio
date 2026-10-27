@@ -31,6 +31,7 @@ Use `/adr <título>`. Template: [`0000-template.md`](./0000-template.md).
 | ----------------------------------------------- | -------------------------------------------------- | ----------------- | ---------- |
 | [0001](./0001-paginas-por-vaga-nao-listadas.md) | Páginas por vaga não listadas, e o que não protege | roteamento, build | 2026-09-28 |
 | [0002](./0002-banco-de-evidencias.md)           | Banco de evidências como fonte única               | conteúdo, geração | 2026-09-28 |
+| [0003](./0003-pre-renderizacao-seo-geo.md)      | Pré-renderização no build para SEO e GEO           | build, conteúdo   | 2026-10-27 |
 
 ## Índice — Proposed
 

@@ -1,8 +1,10 @@
 node_modules
 dist
+.ssr
 .DS_Store
 *.local
 .claude/settings.local.json
+.discard
 
 # Conteúdo das páginas por vaga: contém o nome das empresas em que a Alana está
 # se candidatando, e o slug de cada página não listada. Não entra no histórico.
